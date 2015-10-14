@@ -1,0 +1,54 @@
+/* css sheet source is http://www.456bereastreet.com/lab/developing_with_web_standards/csslayout/2-col/*/
+body, html {
+    background: none repeat scroll 0 0 #A7A09A;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
+#wrap {
+    background: none repeat scroll 0 0 #EFEFDE;
+    margin: 0 auto;
+    width: 1040px;
+}
+#header {
+    background: none repeat scroll 0 0 #DDDDDD;
+    padding: 5px 10px;
+}
+h1 {
+    margin: 0;
+}
+#nav {
+    background: none repeat scroll 0 0 #9CAA9C;
+    padding: 5px 10px;
+}
+#nav ul {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+#nav li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+#main {
+    background: none repeat scroll 0 0 #EFEFDE;
+    float: left;
+    padding: 10px;
+    width: 750px;
+}
+h2 {
+    margin: 0 0 1em;
+}
+#sidebar {
+    background: none repeat scroll 0 0 #9CAA9C;
+    float: right;
+    padding: 10px;
+    width: 250px;
+}
+#footer {
+    background: none repeat scroll 0 0 #CCCC99;
+    clear: both;
+    padding: 5px 10px;
+}
+
